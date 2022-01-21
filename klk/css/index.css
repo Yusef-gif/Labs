@@ -1,0 +1,36 @@
+body {
+    background-image: url(../img/arab_funny.jpg);
+    background-size: cover;
+}
+div {
+    font-size: 22px;
+}
+input {
+    width: 15%;
+    padding: 8px 8px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    box-sizing: border-box;
+    color: black;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    background: gold;
+}
+answer {
+    font-size: 56px;
+    color: white;
+    font-family: "Times New Roman";
+    margin-left: 11.5em;
+    text-shadow: 1px 1px 1px #000000;
+}
+button {
+    font-size: xxx-large;
+    color: black;
+    font-family: "Times New Roman";
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    width: 15%;
+    background: gold;
+}
